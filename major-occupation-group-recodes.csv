@@ -1,0 +1,13 @@
+a_mjocc,occup_major,m_occupation_index
+0,Not in universe or children,0
+1,"Management, business, and financial occupations",0010-0950
+2,Professional and related occupations,1000-3540
+3,Service occupations,3600-4650
+4,Sales and related occupations,4700-4965
+5,Office and administrative support occupations,5000-5940
+6,"Farming, fishing, and forestry occupations",6000-6130
+7,Construction and extraction occupations,6200-6940
+8,"Installation, maintenance, and repair occupations",7000-7630
+9,Production occupations,7700-8965
+10,Transportation and material moving occupations,9000-9750
+11,Armed Forces,9840-9840

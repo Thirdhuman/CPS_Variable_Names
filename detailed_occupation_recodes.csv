@@ -1,0 +1,25 @@
+﻿a_dtocc,det_occupation_name,occ_code_min,occ_code_max
+0,Not in universe or children,0,9
+1,Management occupations,10,430
+2,Business and financial operations occupations,500,950
+3,Computer and mathematical science occupations,1000,1240
+4,Architecture and engineering occupations,1300,1560
+5,"Life, physical, and social science occupations",1600,1965
+6,Community and social service occupation,2000,2060
+7,Legal occupations,2100,2160
+8,"Education, training, and library occupations",2200,2550
+9,"Arts, design, entertainment, sports, and media occupations",2600,2960
+10,Healthcare practicioner and technical occupations,3000,3540
+11,Healthcare support occupations,3600,3655
+12,Protective service occupations,3700,3955
+13,Food preparation and serving related occupations,4000,4160
+14,Building and grounds cleaning and maintenance ocucpations,4200,4250
+15,Personal care and service occupations,4300,4650
+16,Sales and related occupations,4700,4965
+17,Office and administrative support occupations,5000,5940
+18,"Farming, fishing, and forestry occupations",6000,6130
+19,Construction and extraction occupations,6200,6940
+20,"Installation, maintenance, and repair occupations",7000,7630
+21,Production occupations,7700,8965
+22,Transportation and material moving occupations,9000,9750
+23,Armed Forces,9840,9840
